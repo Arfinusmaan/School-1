@@ -10,8 +10,8 @@ Main: (555) 123-4567
 Admission: (555) 123-4568
 
 Email Us
-info@brightvalley.edu
-admissions@brightvalley.edu
+info@qb365.edu
+admissions@qb365.edu
 
 Office Hours
 Mon-Fri: 8:00 AM - 4:00 PM
@@ -32,14 +32,14 @@ Department Contacts
 Principal's Office
 Dr. Michael Johnson
 (555) 123-4569
-principal@brightvalley.edu
+principal@qb365.edu
 
 Admissions Office
 Sarah Williams
 (555) 123-4568
-admissions@brightvalley.edu
+admissions@qb365.edu
 
 Student Services
 James Chen
 (555) 123-4570
-services@brightvalley.edu
+services@qb365.edu
