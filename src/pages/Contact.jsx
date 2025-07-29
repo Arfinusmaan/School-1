@@ -41,7 +41,7 @@ const Contact = () => {
     {
       icon: <Mail className="h-8 w-8" />,
       title: 'Email Us',
-      details: 'info@brightvalley.edu\nadmissions@brightvalley.edu'
+      details: 'info@qb365.edu\nadmissions@qb365.edu'
     },
     {
       icon: <Clock className="h-8 w-8" />,
@@ -55,21 +55,21 @@ const Contact = () => {
       title: "Principal's Office",
       name: 'Dr. Michael Johnson',
       phone: '(555) 123-4569',
-      email: 'principal@brightvalley.edu',
+      email: 'principal@qb365.edu',
       image: '/images/faculty-1.avif'
     },
     {
       title: 'Admissions Office',
       name: 'Sarah Williams',
       phone: '(555) 123-4568',
-      email: 'admissions@brightvalley.edu',
+      email: 'admissions@qb365.edu',
       image: '/images/faculty-3.avif'
     },
     {
       title: 'Student Services',
       name: 'James Chen',
       phone: '(555) 123-4570',
-      email: 'services@brightvalley.edu',
+      email: 'services@qb365.edu',
       image: '/images/faculty-2.avif'
     }
   ];

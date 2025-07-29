@@ -12,12 +12,12 @@ export const useSchool = () => {
 
 export const SchoolProvider = ({ children }) => {
   const [schoolData, setSchoolData] = useState({
-    name: 'Bright Valley School',
+    name: 'QB365 Public School',
     tagline: 'Excellence Meets Innovation',
     foundedYear: '1985',
     address: '123 Education Street, Learning City, LC 12345',
     phone: '(555) 123-4567',
-    email: 'info@brightvalley.edu',
+    email: 'info@qb365.edu',
     principal: {
       name: 'Dr. Michael Johnson',
       image: '/images/faculty-1.avif'
