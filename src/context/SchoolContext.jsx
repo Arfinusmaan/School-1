@@ -12,7 +12,7 @@ export const useSchool = () => {
 
 export const SchoolProvider = ({ children }) => {
   const [schoolData, setSchoolData] = useState({
-    name: 'QB365 Public School',
+    name: 'Vivekananda Vidyalaya',
     tagline: 'Excellence Meets Innovation',
     foundedYear: '1985',
     address: '123 Education Street, Learning City, LC 12345',
